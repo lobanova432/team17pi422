@@ -2,7 +2,8 @@
 
 ## _Created by DreamTeam_
 
-[![Build Status](http://app.travis-ci.com/buildStatus/icon?job=kursovaya-team21&style=flat-square)](http://app.travis-ci.com/job/kursovaya-team21/)
+[![Build Status](https://app.travis-ci.com/lobanova432/team17pi422.svg?branch=master)](https://app.travis-ci.com/lobanova432/team17pi422)
+
 
 kursovaya-team21 is a webapp created by students from USATU to study the discipline of information systems.
 
